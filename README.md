@@ -48,7 +48,7 @@ git clone https://github.com/codebyheera/netflix-clone.git
 cd netflix-clone
 
 ## 🌐 Open the project locally
-#### Simply open the `index.html` file in your browser to view the site.
+Simply open the `index.html` file in your browser to view the site.
 
 👤 Author
 ~ Muhammad Subhan Naeem <br>
