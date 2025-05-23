@@ -41,14 +41,14 @@ A clean, responsive front-end clone of the official Netflix landing page, built 
 
 To run this project locally:
 
-## Clone the repository
+## 🛠 Clone the repository
 git clone https://github.com/codebyheera/netflix-clone.git
 
-## Navigate into the project directory
+## ➡️ Navigate into the project directory
 cd netflix-clone
 
-## Open the project locally
-## Simply open the `index.html` file in your browser to view the site.
+## 🌐 Open the project locally
+#### Simply open the `index.html` file in your browser to view the site.
 
 👤 Author
 ~ Muhammad Subhan Naeem 
