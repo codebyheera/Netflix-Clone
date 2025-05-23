@@ -51,5 +51,5 @@ cd netflix-clone
 #### Simply open the `index.html` file in your browser to view the site.
 
 👤 Author
-~ Muhammad Subhan Naeem 
+~ Muhammad Subhan Naeem <br>
 Built with ❤️ by Heera | github.com/codebyheera
