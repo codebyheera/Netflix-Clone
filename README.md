@@ -8,7 +8,7 @@ A clean, responsive front-end clone of the official Netflix landing page, built 
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/a7064b63-10e4-4b3a-b19c-d0911ea5b0e3)
+![image](https://github.com/user-attachments/assets/2d1fd919-565f-4e01-99b7-eae1aed08538)
 ![image](https://github.com/user-attachments/assets/7683588e-9907-4ac6-a9ba-e250adf6d61d)
 ![image](https://github.com/user-attachments/assets/586fd12e-0387-4a8c-a8e4-697d05d3c9f2)
 ![image](https://github.com/user-attachments/assets/01883f00-8a31-4608-af1a-84d4641df45b)
