@@ -224,14 +224,15 @@ h2 {
   flex-wrap: wrap;
   justify-content: center;
   color: #ffffff;
-  padding-left: 100px;
-  padding-right: 100px;
+  /* padding-left: 100px;
+  padding-right: 100px; */
   padding-top: 25px;
   padding-bottom: 25px;
   font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu,
     sans-serif;
   font-size: 24px;
   font-weight: 500;
+  margin: auto;
   gap: 0.5rem;
   flex-direction: row;
   line-height: normal;
@@ -291,6 +292,11 @@ h2 {
 }
 .card {
   position: relative;
+  transition: transform 0.3s ease-in-out;
+}
+.card:hover{
+  transform: scale(1.1);
+  cursor: pointer;
 }
 .img {
   filter: invert(1);
@@ -491,6 +497,7 @@ h2 {
     padding: 0px;
     gap: 2.3rem;
   }
+
   .restext {
     padding-left: 0px;
     text-align: center;
@@ -502,7 +509,6 @@ h2 {
   }
   .bx > h1 {
     font-size: 20px;
-
   }
   input.form2 {
     padding: 10px 50px;
@@ -527,7 +533,7 @@ h2 {
   .card > img {
     height: 330px;
   }
-.bx{
-  padding: 19px 15px;
-}
+  .bx {
+    padding: 19px 15px;
+  }
 }
