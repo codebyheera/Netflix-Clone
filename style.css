@@ -54,7 +54,7 @@ nav {
   width: 100%;
   opacity: 0.75;
   position: absolute;
-  top: 0;
+  top: 45px;
   /* Gradient Testing */
   background: radial-gradient(circle, rgb(0 0 0 / 91%) 30%, rgb(0 0 0) 70%);
   z-index: 1;
@@ -473,6 +473,9 @@ h2 {
     padding: 0px 10px;
     text-align: center;
     font-size: 18px;
+  }
+  .box {
+    top: 95px;
   }
   .email {
     display: contents;
